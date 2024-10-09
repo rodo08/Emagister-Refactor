@@ -169,3 +169,66 @@ node index.js
 ## Conclusión
 
 Esta refactorización moderniza el código, mejora la encapsulación de datos y asegura que la jerarquía de clases siga las mejores prácticas de programación orientada a objetos. Además, el código es más fácil de mantener y extender en el futuro si es necesario implementar nuevas características o tipos de mascotas.
+
+---
+
+<br><br>
+
+# Preguntas sobre SASS y WebPack
+
+## Respuestas:
+
+1.  ¿Qué es SASS?
+
+    - **A) Un preprocesador CSS**
+
+2.  ¿Cuál de las siguientes características es una ventaja de SASS?
+
+    - **A) Permite el uso de variables**
+
+3.  ¿Cómo se define una variable en SASS?
+
+    - **B) $color: #fff;**
+
+**Preguntas sobre Webpack:**
+
+4.  ¿Qué es Webpack?
+
+    - **C) Un empaquetador de módulos**
+
+5.  ¿Cuál de las siguientes es una función de Webpack?
+
+    - **D) Todas las anteriores**  
+      (Minificación de CSS, Gestión de dependencias, Compilación de SASS)
+
+6.  ¿Qué archivo es el punto de entrada predeterminado en un proyecto Webpack?
+
+    - **C) main.js**
+
+**Preguntas sobre BEM:**
+
+7.  ¿Qué significa BEM?
+
+    - **A) Block Element Modifier**
+
+8.  ¿Cómo se nombraría un elemento button dentro de un bloque header en BEM?
+
+    - **A) header\_\_button**
+
+9.  ¿Cuál de las siguientes afirmaciones sobre BEM es correcta?
+
+    - **D) Los modificadores se representan con un guion doble (--)**
+
+**Preguntas sobre ITCSS:**
+
+10. ¿Qué significa ITCSS?
+
+- **A) Inverted Triangle CSS**
+
+11. ¿Cuál es la principal ventaja de ITCSS?
+
+- **D) Todas las anteriores**
+
+12. En la estructura de ITCSS, ¿dónde se colocan los estilos de utilidad?
+
+- **B) En la parte inferior**
